@@ -1,0 +1,6 @@
+train: train/images
+val: val/images
+
+# Classes
+nc: 7  # number of classes
+names: ['River', 'Built Area', 'Trees', 'Crops', 'Bare Ground', 'Snow', 'Rangeland']
